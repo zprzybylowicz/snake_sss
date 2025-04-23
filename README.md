@@ -1,4 +1,4 @@
-Remake of old cell phone game in WPF C#
+Remake of an old cell phone game in WPF C#
 
 Enjoy!
 
